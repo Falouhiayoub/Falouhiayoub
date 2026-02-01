@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 My Name is Ayoub Falouhi
 
-<!--
-**Falouhiayoub/Falouhiayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full Stack Web Developer
+Creative full-stack developer who turns ideas into fast, scalable, and user-focused web experiences.
+Skilled in crafting clean frontends and powerful backends that work seamlessly together.
 
-Here are some ideas to get you started:
+🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on Cloting ecommerce Platform using MERN stack
+🌱 Currently mastering Redux, NextJs
+🐳 Experienced with React and ExpressJs
+🤝 Open to collaborations on interesting projects
+👥 Looking for team projects and collaborative opportunities
+💼 Working on both individual and team projects
+💬 Ask me about React, Node.js, MongoDB, typescript
+📫Reach Me at falouhiayoub9@gmail.com | +212-621853998
