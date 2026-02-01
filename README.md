@@ -7,6 +7,7 @@ Skilled in crafting clean frontends and powerful backends that work seamlessly t
 🧑‍💻 About Me
 
 - 🔭 Currently working on Cloting ecommerce Platform using MERN stack
+  
 🌱 Currently mastering Redux, NextJs
 🐳 Experienced with React and ExpressJs
 🤝 Open to collaborations on interesting projects
